@@ -157,12 +157,17 @@ p,li{
 /* fan page */
 #fan {
     text-align:center;
-     
-}
-   p{
+      p{
     text-align:center;
     text-indent:-150px;
+     
    }  
+    
+}
+a{
+    color:gold
+}
+     
 
   
 
